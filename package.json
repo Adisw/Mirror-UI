@@ -45,7 +45,7 @@
   "devDependencies": {
     "chalk": "^2.4.2",
     "jest": "20.0.4",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^2.5.1"
   }
 }
